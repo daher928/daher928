@@ -1,4 +1,4 @@
-<a href="daher928"><img src="https://github.com/daher928/daher928/blob/master/devcard.svg" width="400" alt="My Dev Card"/></a>
+<a href="daher928"><img src="https://github.com/daher928/daher928/blob/main/devcard.svg" width="400" alt="My Dev Card"/></a>
 
 <!--
 **daher928/daher928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
