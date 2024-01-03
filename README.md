@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<a href="https://app.daily.dev/daherdaher"><img src="https://api.daily.dev/devcards/9effc41439924e6b9988666a25dab4dc.png?r=vvw" width="400" alt="Daher Daher's Dev Card"/></a>
 <!--
 **daher928/daher928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
